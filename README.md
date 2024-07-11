@@ -1,5 +1,3 @@
-## Hi there, wait langs inaayus pa :D
-
 ![Logo Page](resources/profile_banner.png)
 <!--
 
