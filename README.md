@@ -1,5 +1,7 @@
 ## Hi there, wait langs inaayus pa :D
 
+![Logo Page](resources/profile_banner.png)
+
 <!--
 **vynxshieee/vynxshieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
