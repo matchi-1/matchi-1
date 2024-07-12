@@ -1,4 +1,7 @@
 ![Logo Page](resources/profile_banner.png)
+
+<h2 align="center" style="font-family: Montserrat; font-weight: normal"> 
+  <img src="https://media.tenor.com/cqQ9eq9xIrgAAAAi/cat.gif" width="40px"> <img src="https://media.tenor.com/cqQ9eq9xIrgAAAAi/cat.gif" width="40px"> </h2>
 <!--## Hi there! wait langs inaayus ko pa wahahaha
 
 
