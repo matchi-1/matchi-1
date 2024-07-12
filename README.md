@@ -1,4 +1,4 @@
-![Logo Page](resources/profile_banner.png)
+![Logo Page](resources/profile_banner.gif)
 
 <h2 align="center" style="font-family: Montserrat; font-weight: normal"> 
   <img src="https://media.tenor.com/cqQ9eq9xIrgAAAAi/cat.gif" width="40px"> <img src="https://media.tenor.com/cqQ9eq9xIrgAAAAi/cat.gif" width="40px"> </h2>
