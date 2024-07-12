@@ -1,6 +1,8 @@
-## Hi there! wait langs inaayus ko pa wahahaha
 
-<!--![Logo Page](resources/profile_banner.png)
+![Logo Page](resources/profile_banner.png)
+<!--## Hi there! wait langs inaayus ko pa wahahaha
+
+
 
 
 
