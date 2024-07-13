@@ -4,7 +4,6 @@
 
 I am an undergraduate Computer Science student at the Pamantasan ng Lungsod ng Maynila, passionate about AI/ML Engineering and Software Development. I have practical experience in machine learning using Python and have also contributed to several full-stack development projects. My skills also extend to Back-End & Front-End Development, Database Management, and UI/UX design.
 
-<br>
 <hr>
 
 <h3 style="font-family: Montserrat; font-weight: normal">My Technology Stack <img src="https://media.tenor.com/mMkJeuyHkRYAAAAi/cat-cat-on-computer.gif" width="40px"></h3>
