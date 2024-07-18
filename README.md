@@ -24,6 +24,7 @@ I am an undergraduate Computer Science student at the Pamantasan ng Lungsod ng M
 ![Seaborn](https://img.shields.io/badge/Seaborn-Seaborn?style=for-the-badge&logo=Seaborn&logoColor=white&labelColor=orange&color=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%20Plotly?style=for-the-badge&logo=Plotly&logoColor=white&labelColor=orange&color=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-scikit?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=orange&color=white)
+![SciPy](https://img.shields.io/badge/SciPy%20-%20%20?style=for-the-badge&logo=SciPy&logoColor=white&labelColor=orange&color=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch%20-%20PyTorch%20?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=orange&color=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%20TensorFlow?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=orange&color=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%20Jupyter?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=orange&color=white)
