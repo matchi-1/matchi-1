@@ -34,6 +34,10 @@ I am an undergraduate Computer Science student at the Pamantasan ng Lungsod ng M
 ![HTML5](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=%23ff8880&color=white)
 ![CSS3](https://img.shields.io/badge/CSS3-CSS3?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=%23ff8880&color=white)
 ![React](https://img.shields.io/badge/React-React?style=for-the-badge&logo=React&logoColor=white&labelColor=%23ff8880&color=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&labelColor=%23ff8880&color=white)
+![MUI](https://img.shields.io/badge/MUI-MUI?style=for-the-badge&logo=mui&logoColor=white&labelColor=%23ff8880&color=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-REST%20APIs?style=for-the-badge&logo=postman&logoColor=white&labelColor=%23ff8880&color=white)
+
 
 
 #### DBMS/BaaS
@@ -41,12 +45,18 @@ I am an undergraduate Computer Science student at the Pamantasan ng Lungsod ng M
 ![MySQL](https://img.shields.io/badge/MySQL-MySQL?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=%2344acad&color=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Firebase?style=for-the-badge&logo=firebase&logoColor=white&labelColor=%2344acad&color=white)
 
+
+#### Cloud
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Platform-Google%20Cloud%20Platform?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=%23ffc14f&color=white)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-Amazon%20Web%20Services?style=for-the-badge&logo=Amazon+Web+Services&logoColor=white&labelColor=%23ffc14f&color=white)
+
+
 <hr>
 <h3 style="font-family: Montserrat; font-weight: normal">Get in touch! <img src="https://media.tenor.com/fYpViWgF-qgAAAAi/teagif-cute.gif" width="40px"></h3>
 
 <p>
     <a href="https://www.linkedin.com/in/michelle-tolentino-match1">
-        <img align="center" src="https://img.shields.io/badge/Michelle%20Tolentino%20-%20?style=social&logo=linkedin" alt="LinkedIn"/>
+        <img align="center" src="https://img.shields.io/badge/Michelle%20Tolentino%20-%20?style=social&logo=LinkedIn" alt="LinkedIn"/>
     </a>
   <br>
     <a href="https://www.facebook.com/mixee.vynx.1">
