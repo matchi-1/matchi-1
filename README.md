@@ -2,7 +2,7 @@
 
 <h2 style="font-family: Montserrat; font-weight: normal">Hi there! I'm Michelle Tolentino <img src="https://media.tenor.com/cqQ9eq9xIrgAAAAi/cat.gif" width="40px"></h2>
 
-I am an undergraduate Computer Science student at the Pamantasan ng Lungsod ng Maynila, passionate about AI/ML Engineering and Software Development. I have practical experience in machine learning and data engineering using Python and have also contributed to several full-stack development projects. My skills also extend to Back-End & Front-End Development, Database Management, and UI/UX design.
+An aspiring full-stack developer and computer science student at Pamantasan ng Lungsod ng Maynila with a strong foundation in Artificial Intelligence, Machine Learning, Deep Learning, and full-stack development. Passionate about leveraging AI and cloud computing to develop scalable and impactful solutions. Proficient in Python, Java, JavaScript, and cloud platforms such as AWS and GCP, with hands-on experience in frontend and backend development, database management, and UI/UX design.
 
 <hr>
 
