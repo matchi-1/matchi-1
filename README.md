@@ -30,11 +30,15 @@ An aspiring full-stack developer and computer science student at Pamantasan ng L
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%20Jupyter?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=orange&color=white)
 
 
-#### Web Development
+#### Web Development (Frontend & Backend)
 ![HTML5](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=%23ff8880&color=white)
 ![CSS3](https://img.shields.io/badge/CSS3-CSS3?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=%23ff8880&color=white)
 ![React](https://img.shields.io/badge/React-React?style=for-the-badge&logo=React&logoColor=white&labelColor=%23ff8880&color=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&labelColor=%23ff8880&color=white)
+![Django](https://img.shields.io/badge/Django-Django?style=for-the-badge&logo=django&logoColor=white&labelColor=%23ff8880&color=white)
+![Flask](https://img.shields.io/badge/Flask-Flask?style=for-the-badge&logo=flask&logoColor=white&labelColor=%23ff8880&color=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Tailwind%20CSS?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%23ff8880&color=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Spring%20Boot?style=for-the-badge&logo=spring&logoColor=white&labelColor=%23ff8880&color=white)
 ![MUI](https://img.shields.io/badge/MUI-MUI?style=for-the-badge&logo=mui&logoColor=white&labelColor=%23ff8880&color=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-REST%20APIs?style=for-the-badge&logo=postman&logoColor=white&labelColor=%23ff8880&color=white)
 
@@ -46,9 +50,11 @@ An aspiring full-stack developer and computer science student at Pamantasan ng L
 ![Firebase](https://img.shields.io/badge/Firebase-Firebase?style=for-the-badge&logo=firebase&logoColor=white&labelColor=%2344acad&color=white)
 
 
-#### Cloud
+#### Cloud & Containerization
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Platform-Google%20Cloud%20Platform?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=%23ffc14f&color=white)
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-Amazon%20Web%20Services?style=for-the-badge&logo=Amazon+Web+Services&logoColor=white&labelColor=%23ffc14f&color=white)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-Amazon%20Web%20Services?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=%23ffc14f&color=white)
+![Docker](https://img.shields.io/badge/Docker-Docker?style=for-the-badge&logo=docker&logoColor=white&labelColor=%23ffc14f&color=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Kubernetes?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=%23ffc14f&color=white)
 
 
 <hr>
