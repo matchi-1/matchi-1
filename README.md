@@ -17,7 +17,7 @@ An aspiring full-stack developer and computer science student at Pamantasan ng L
 ![Dart](https://img.shields.io/badge/Dart-%20Dart?style=for-the-badge&logo=dart&logoColor=white&labelColor=blue&color=white)
 
 
-#### Data Science and Machine Learning
+#### Data Science & AI/ML
 ![Pandas](https://img.shields.io/badge/Pandas-%20Pandas?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=orange&color=white)
 ![Numpy](https://img.shields.io/badge/Numpy-%20Numpy?style=for-the-badge&logo=Numpy&logoColor=white&labelColor=orange&color=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Matplotlib?style=for-the-badge&logo=Matplotlib&logoColor=white&labelColor=orange&color=white)
@@ -28,7 +28,9 @@ An aspiring full-stack developer and computer science student at Pamantasan ng L
 ![PyTorch](https://img.shields.io/badge/PyTorch%20-%20PyTorch%20?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=orange&color=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%20TensorFlow?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=orange&color=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%20Jupyter?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=orange&color=white)
-
+![OpenCV](https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=white&labelColor=orange&color=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-HuggingFace?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=orange&color=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Streamlit?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=orange&color=white)
 
 #### Web Development (Frontend & Backend)
 ![HTML5](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=%23ff8880&color=white)
