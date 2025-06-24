@@ -63,15 +63,21 @@ An aspiring full-stack developer and computer science student at Pamantasan ng L
 <h3 style="font-family: Montserrat; font-weight: normal">Get in touch! <img src="https://media.tenor.com/fYpViWgF-qgAAAAi/teagif-cute.gif" width="40px"></h3>
 
 <p>
-    <a href="https://www.linkedin.com/in/michelle-tolentino-match1">
-        <img align="center" src="https://img.shields.io/badge/Michelle%20Tolentino%20-%20?style=social&logo=LinkedIn" alt="LinkedIn"/>
-    </a>
-  <br>
-    <a href="https://www.facebook.com/mixee.vynx.1">
-        <img align="center" src="https://img.shields.io/badge/Michelle%20N.%20Tolentino%20-%20?style=social&logo=Facebook" alt="Facebook"/>
-    </a>
-  <br>
-    <a href="mailto:michellentolentino@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/michellentolentino%40gmail.com%20-%20?style=social&logo=gmail">
-    </a>
+  <a href="https://www.linkedin.com/in/michelle-tolentino-match1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Michelle%20Tolentino-55b8ed?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.facebook.com/mixee.vynx.1" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Michelle%20N.%20Tolentino-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+  <a href="https://www.instagram.com/vynxshieee/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-vynxshieee-ed55d9?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+
+  <a href="mailto:michellentolentino@gmail.com">
+    <img src="https://img.shields.io/badge/Email-michellentolentino@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
